@@ -1,0 +1,6 @@
+Rubyで帳票を作るのに便利そうなツール
+ThinReports(http://www.thinreports.org/)
+のサンプルです。
+
+レポート定義ファイルとそれを利用してpdfを作成するプログラムです。
+
